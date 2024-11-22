@@ -5,14 +5,15 @@ import StatsAndProcess from '../../Components/Stats/Stats'
 
 function Home() {
   return (
-    <>
+    <div>
+     <Hero/>
     <Climate/>
     <StatsAndProcess/>
-    </>
-    <div>
-        <Hero/>
-        
     </div>
+    
+       
+        
+    
   )
 }
 
