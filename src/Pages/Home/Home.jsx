@@ -1,4 +1,4 @@
-import Hero from "../../Components/Hero/hero"
+import Hero from "../../Components/Hero/Hero"
 
 import Climate from '../../Components/Climate/Climate'
 import StatsAndProcess from '../../Components/Stats/Stats'
