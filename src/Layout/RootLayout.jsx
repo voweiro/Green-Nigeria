@@ -4,7 +4,7 @@ import Navigation from '../Components/Header/Navigation'
 function RootLayout() {
   return (
     <div>
-        <Navigation/>
+        {/* <Navigation/> */}
         <main>
             <Outlet/>
         </main>
