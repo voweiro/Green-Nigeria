@@ -1,5 +1,5 @@
 import React from "react";
-import teamIcon from "../../Assets/img/team-icon.png"; // Replace with your actual icons
+import teamIcon from "../../Assets/icons/team-icon.png"; // Replace with your actual icons
 import worksIcon from "../../Assets/img/works-icon.png";
 import awardsIcon from "../../Assets/img/awards-icon.png";
 import ratingsIcon from "../../Assets/img/ratings-icon.png";
