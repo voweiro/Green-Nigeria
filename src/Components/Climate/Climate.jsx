@@ -1,5 +1,5 @@
 import React from "react";
-import climateimage from "../../Assets/img/climate-image.png"; // Replace with your image path
+import climateimage from "../../Assets/icons/climate-image.png"; // Replace with your image path
 import leave from "../../Assets/img/leave.png";
 import earth from "../../Assets/img/earth.png";
 
